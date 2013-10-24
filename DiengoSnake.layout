@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Classe_Snake.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="518" topLine="20" />
+	</File>
+	<File name="Classe_Snake.h" open="0" top="0" tabpos="3">
+		<Cursor position="95" topLine="0" />
+	</File>
+	<File name="Classe_Timer.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="18" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="13876" topLine="562" />
+	</File>
+</CodeBlocks_layout_file>
